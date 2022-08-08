@@ -1,4 +1,4 @@
-# ROCKETSEAT CHALLENGE 01`
+# ROCKETSEAT CHALLENGE 01
 
 ### EXAMPLE
 [screen-capture.webm](https://user-images.githubusercontent.com/58013759/183319457-6133754d-f895-4aa6-9c1e-9d568930ef38.webm)
